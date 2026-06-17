@@ -3178,10 +3178,10 @@ CMDBAR.FocusLost:connect(function(enterPressed)
  end
 end)
 
-wait(0.3)
+wait(0.6)
 game:GetService("StarterGui"):SetCore("SendNotification", {
  Title = "Loaded successfully!";
- Text = "FE6 Admin V2 by illremember";
+ Text = "FE6 Admin V2 By super_remy12";
 })
 wait(0.1)
 print("FE6 Admin V2 loaded!")
